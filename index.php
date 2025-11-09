@@ -40,7 +40,7 @@
 <body>
     <?php include 'inc/client/menu.php' ?>
     <div class="container my-4">
-        <div class="p-4 bg-primary text-white rounded text-center mb-4">
+        <div class="p-4 bg-success text-white rounded text-center mb-4">
             <h1 class="mb-0">Tin tức mới nhất</h1>
             <p class="mb-0">Cập nhật các bài viết mới và nổi bật nhất</p>
         </div>
